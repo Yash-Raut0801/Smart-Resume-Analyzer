@@ -18,8 +18,6 @@
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Environment Variables](#-environment-variables)
-- [API Reference](#-api-reference)
-- [Scoring Logic](#-scoring-logic)
 - [OOP Concepts](#-oop-concepts-java-origin)
 - [Author](#-author)
 

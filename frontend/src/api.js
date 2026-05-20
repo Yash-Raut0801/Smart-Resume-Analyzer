@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: "http://localhost:8000/api/candidates"
+    baseURL: "https://smart-resume-analyzer-backend-teyp.onrender.com/api/candidates"
 });
 
 export default API;

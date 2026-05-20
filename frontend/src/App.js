@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import AddCandidate from "./components/AddCandidate";
 import CandidateList from "./components/CandidateList";
 import Ranking from "./components/Ranking";

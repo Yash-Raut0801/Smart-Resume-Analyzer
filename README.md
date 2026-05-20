@@ -195,9 +195,6 @@ This project was originally built in Java demonstrating core OOP principles, the
 
 **Yash Rajendra Raut**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-
 ---
 
 ## 📜 License
